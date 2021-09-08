@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "production": "cryptomoon-d9294",
+    "default": "cryptomoon-d9294"
+  },
+  "targets": {}
+}
